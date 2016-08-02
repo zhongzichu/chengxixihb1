@@ -4,7 +4,7 @@
 ![](show_min.gif)
 
 ####源码下载地址:[https://github.com/lendylongli/zhongzichu](https://github.com/lendylongli/zhongzichu)
-####apk下载地址 : <a href="http://t.cn/RbrdRHe" target="_blank">下载最新版本</a>
+####apk下载地址 : <a href="http://985.so/7BAr" target="_blank">下载最新版本</a>
 
 ##前言
 城西红包,提供给新人了解提升自身能力。，与本人没任何关系,如利用,商业/赌博类型的，后果自行承担
